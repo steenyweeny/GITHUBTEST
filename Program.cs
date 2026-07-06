@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, one last change!");
+﻿myMethod(); 
+void myMethod()
+{
+    Console.WriteLine("Hello, World!");
+}
